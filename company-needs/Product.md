@@ -1,5 +1,5 @@
 Product (order by priority)
 ===================
 <ul>
-	<li><h3 style="color: blue;">BS3 Web Template with cms</h3></li>
+	<li><p><a href="https://github.com/nervoustwit/medicuscorda">BS3 Web Template with cms</a></p></li>
 </ul>
